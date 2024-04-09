@@ -1,0 +1,12 @@
+/* Universal selector is with least priority */
+* {
+  color: chartreuse;
+}
+
+h1 {
+  color: coral;
+}
+
+p {
+  color: aqua;
+}
